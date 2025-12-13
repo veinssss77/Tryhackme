@@ -1,1 +1,349 @@
+Junior Security Analyst Intro
 
+TryHackMe – SOC Level 1
+
+1. Role Overview: Junior Security Analyst (SOC Level 1)
+
+A Junior Security Analyst, also known as a SOC Level 1 Analyst, is part of a 24/7 Security Operations Center (SOC) responsible for monitoring, detecting, and investigating potential security incidents.
+
+The role focuses on:
+
+Identifying suspicious activity
+
+Investigating security alerts
+
+Escalating confirmed threats
+
+Supporting overall organizational security
+
+SOC Level 1 analysts act as the first line of defense against cyber threats.
+
+2. The Security Analyst Journey
+Daily Context
+
+Cybersecurity is a constantly evolving field where:
+
+New vulnerabilities are disclosed frequently
+
+Threat actors continuously improve their techniques
+
+Organizations are regularly targeted by attacks
+
+Security analysts must stay informed by:
+
+Reviewing cybersecurity news
+
+Tracking recent breaches and attack campaigns
+
+Understanding emerging threat trends
+
+Examples of common real-world incidents:
+
+Large-scale DDoS attacks
+
+Nation-state or politically motivated campaigns
+
+Supply chain compromises
+
+SaaS platform breaches leading to data leaks
+
+Understanding these events helps analysts recognize similar patterns in alerts and logs.
+
+3. Position in the SOC Team
+
+A Junior Security Analyst works:
+
+As part of a team, not alone
+
+Under senior analysts and SOC leads
+
+Within defined procedures and escalation paths
+
+The goal is not to “hack back,” but to:
+
+Detect threats early
+
+Reduce damage
+
+Prevent incidents from escalating
+
+4. Core Daily Duties of a Junior Security Analyst
+4.1 Monitoring and Investigating Alerts
+
+Primary responsibility includes:
+
+Reviewing alerts from security tools (SIEM, EDR, IDS)
+
+Determining whether alerts are false positives or real threats
+
+Collecting relevant evidence (logs, timestamps, IPs, user activity)
+
+This requires strong attention to detail and analytical thinking.
+
+4.2 SOC Collaboration and Communication
+
+Junior analysts:
+
+Participate in SOC discussions and shift handovers
+
+Share findings with teammates
+
+Escalate confirmed incidents to Level 2 analysts
+
+Clear communication is critical to avoid missed or duplicated investigations.
+
+4.3 Cross-Team Cooperation
+
+SOC analysts often work with:
+
+IT teams (system issues, patching)
+
+Network teams (traffic anomalies)
+
+Management (incident reporting)
+
+Security is a shared responsibility across the organization.
+
+4.4 Continuous Learning
+
+Threats evolve constantly, so analysts must:
+
+Learn new attack techniques
+
+Understand new defensive tools
+
+Improve investigation and documentation skills
+
+This is why continuous training paths like SOC Level 1 exist.
+
+5. Skills Emphasized at SOC Level 1
+
+This role emphasizes:
+
+Log analysis
+
+Alert triage
+
+Pattern recognition
+
+Documentation and reporting
+
+Understanding attacker behavior at a high level
+
+Advanced exploitation or offensive skills are not the focus at this stage.
+
+6. SOC Relevance (Why This Matters)
+
+This introductory room establishes:
+
+What a SOC analyst actually does daily
+
+Why alert analysis and monitoring are critical
+
+How SOC Level 1 fits into real-world security operations
+
+It sets the foundation for later topics such as:
+
+SIEM usage
+
+Phishing investigation
+
+Network traffic analysis
+
+Incident response workflows
+
+7. Key Takeaway
+
+A Junior Security Analyst is:
+
+A defender, not an attacker
+
+Alert-focused, not tool-obsessed
+
+Process-driven, not guess-based
+
+This role prioritizes accuracy, consistency, and teamwork over speed or complexity.
+
+----------------------------------------------------------------------------------------------------
+SOC and Your Team
+
+TryHackMe – SOC Level 1
+
+1. Security Operations Center (SOC) Overview
+
+A Security Operations Center (SOC) is a centralized team responsible for:
+
+Monitoring security events
+
+Detecting and responding to incidents
+
+Protecting the organization’s systems, users, and data
+
+SOC operations are team-based. No single analyst works alone; each role has a specific responsibility that contributes to overall security.
+
+2. SOC Team Structure and Roles
+2.1 Junior Security Analyst (SOC Level 1)
+
+Primary responsibilities:
+
+Monitor and triage security alerts
+
+Perform initial analysis
+
+Identify false positives vs real threats
+
+Escalate confirmed or complex incidents
+
+This role serves as the first line of defense.
+
+2.2 Senior Security Analyst
+
+Role: Advanced analysis and mentorship
+
+Key responsibilities:
+
+Assist junior analysts when investigations are unclear
+
+Handle complex or high-risk incidents
+
+Validate findings before escalation to incident response
+
+Provide guidance and training to junior team members
+
+Senior analysts bridge the gap between alert triage and full incident response.
+
+2.3 SOC Engineer
+
+Role: Security tool management and optimization
+
+Key responsibilities:
+
+Configure and maintain SOC tools (SIEM, EDR, IDS)
+
+Create and tune detection rules
+
+Reduce false positives
+
+Ensure alerts are meaningful and actionable
+
+SOC engineers do not monitor alerts directly but enable analysts to work effectively.
+
+2.4 SOC Manager
+
+Role: Leadership, coordination, and reporting
+
+Key responsibilities:
+
+Oversee SOC operations
+
+Manage analysts and engineers
+
+Report security posture and incidents to management
+
+Ensure processes and workflows are followed
+
+The SOC manager connects technical security operations with business leadership.
+
+2.5 Incident Responder
+
+Role: Major incident handling
+
+Key responsibilities:
+
+Respond to severe incidents (e.g., ransomware, breaches)
+
+Perform containment, eradication, and recovery
+
+Coordinate response across technical and business teams
+
+Incident responders are typically involved only when a serious incident occurs.
+
+3. How These Roles Work Together
+
+SOC workflow typically follows this path:
+
+Alerts generated by security tools
+
+Junior analysts perform initial triage
+
+Senior analysts assist or take over complex cases
+
+Incident responders handle confirmed major incidents
+
+SOC engineers improve detections based on lessons learned
+
+SOC managers oversee and report outcomes
+
+This layered approach ensures efficient and controlled incident handling.
+
+4. Daily Duties and Real-World Scenarios
+
+As a Junior Security Analyst, you may encounter scenarios such as:
+
+4.1 Malware and Endpoint Incidents
+
+Detecting data stealer infections on employee devices
+
+Investigating suspicious processes or outbound connections
+
+Coordinating containment actions
+
+4.2 Phishing Campaigns
+
+Analyzing phishing emails targeting departments like finance
+
+Identifying indicators of compromise (IOCs)
+
+Assisting in blocking malicious senders or domains
+
+4.3 Large-Scale Incidents
+
+Supporting investigations during ransomware attacks
+
+Collecting logs and evidence
+
+Assisting senior analysts and incident responders
+
+4.4 Detection Engineering and Automation
+
+Collaborating with SOC engineers
+
+Helping create or improve detection rules
+
+Participating in automation discussions to reduce alert fatigue
+
+4.5 Business Awareness
+
+Understanding how company operations affect security
+
+Learning why certain assets or users are more critical
+
+Aligning security priorities with business impact
+
+5. Career Progression Insight
+
+SOC Level 1 is a foundation role. With experience, analysts may progress into:
+
+Senior SOC Analyst
+
+SOC Engineer
+
+Incident Responder
+
+Threat Hunter
+
+Security Engineer or Architect
+
+Early exposure to teamwork and processes is essential before specialization.
+
+6. SOC Relevance
+
+This section highlights:
+
+Why SOC work is collaborative
+
+How each role contributes to incident detection and response
+
+Why junior analysts must understand the entire SOC ecosystem
+
+Understanding the team structure improves communication, escalation accuracy, and investigation efficiency.
