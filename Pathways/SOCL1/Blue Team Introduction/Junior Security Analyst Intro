@@ -347,3 +347,52 @@ How each role contributes to incident detection and response
 Why junior analysts must understand the entire SOC ecosystem
 
 Understanding the team structure improves communication, escalation accuracy, and investigation efficiency.
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+Being a Security Analyst
+
+TryHackMe – SOC Level 1
+
+1. Lab Tasks and Notes
+Task 1 – Malicious IP
+
+Question: What was the malicious IP address in the alerts?
+
+Answer: 221.181.185.159
+
+Notes:
+
+This task introduces alert monitoring — a core SOC Level 1 duty.
+
+Analysts must identify suspicious IPs from logs or SIEM dashboards.
+
+Recognizing malicious IPs allows early detection of threats before they cause damage.
+
+Task 2 – Escalation
+
+Question: To whom did you escalate the alert with the malicious IP?
+
+Answer: Will Griffin (Senior Analyst)
+
+Notes:
+
+Escalation is a key SOC workflow.
+
+Junior analysts report complex or high-risk alerts to senior analysts for review.
+
+Proper escalation ensures that serious incidents are handled safely and efficiently.
+
+Task 3 – Firewall Response
+
+Question: What message did you get after blocking the IP address on the firewall?
+
+Answer: THM{until-we-meet-again}
+
+Notes:
+
+This task covers mitigation — taking action to prevent further malicious activity.
+
+Blocking IPs on a firewall is a standard defensive measure.
+
+Analysts confirm that the action was successful through system feedback.
